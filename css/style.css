@@ -28,3 +28,20 @@ ul li {
 .img-container img {
     width: 100%;
 }
+
+.nav-link {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid #000;
+    background-color: rgb(14, 14, 159);
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+}
