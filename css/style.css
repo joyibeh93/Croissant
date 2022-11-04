@@ -4,7 +4,27 @@
     box-sizing: border-box;
 }
 
-main {
-    display: block;
-    margin-top: 40px auto;
+h1,
+h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.write-up {
+    width: 300px;
+    margin: 10px auto;
+}
+
+ul li {
+    text-align: center;
+    list-style: circle;
+}
+
+.img-container {
+    width: 300px;
+    margin: 20px auto;
+}
+
+.img-container img {
+    width: 100%;
 }
